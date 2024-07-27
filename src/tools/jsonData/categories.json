@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "name": "Restaurants",
+            "icon": "FaUtensils"
+        },
+        {
+            "name": "Hotels",
+            "icon": "FaHotel"
+        },
+        {
+            "name": "Beauty Spa",
+            "icon": "FaSpa"
+        },
+        {
+            "name": "Home Decor",
+            "icon": "FaCouch"
+        },
+        {
+            "name": "Wedding",
+            "icon": "FaHeart"
+        },
+        {
+            "name": "Education",
+            "icon": "FaBook"
+        },
+        {
+            "name": "Rent & Hire",
+            "icon": "FaCar"
+        },
+        {
+            "name": "Hospitals",
+            "icon": "FaHospital"
+        },
+        {
+            "name": "Contractors",
+            "icon": "FaTools"
+        },
+        {
+            "name": "Pet Shops",
+            "icon": "FaPaw"
+        },
+        {
+            "name": "PG/Hostels",
+            "icon": "FaBed"
+        },
+        {
+            "name": "Estate Agent",
+            "icon": "FaBuilding"
+        },
+        {
+            "name": "Dentists",
+            "icon": "FaTooth"
+        },
+        {
+            "name": "Gym",
+            "icon": "FaDumbbell"
+        },
+        {
+            "name": "Consultants",
+            "icon": "FaUserTie"
+        },
+        {
+            "name": "Event Organisers",
+            "icon": "FaCalendarAlt"
+        },
+        {
+            "name": "Driving Schools",
+            "icon": "FaCar"
+        },
+        {
+            "name": "Packers & Movers",
+            "icon": "FaBoxes"
+        },
+        {
+            "name": "Courier Service",
+            "icon": "FaTruck"
+        }
+    ]
+}
